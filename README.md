@@ -43,6 +43,23 @@ PCOSENSE addresses this challenge by combining both clinical parameters and ultr
 6. Combine predictions using decision-level fusion.
 7. Display the final PCOS prediction through the Streamlit application.
 
+## Application Screenshots
+
+### Clinical Data Input
+![Clinical Input](images/user_interface_1.png)
+
+### Ultrasound Uploa
+![Upload](images/user_interface_2.png)
+
+### Prediction Results
+
+![Prediction 1](images/prediction_result_1.png)
+
+![Prediction 2](images/prediction_result_2.png)
+
+![Prediction 3](images/prediction_result_3.png)
+
+---
 ## Project Structure
 PCOSENSE-PCOS-Detection/
 │
@@ -51,6 +68,7 @@ PCOSENSE-PCOS-Detection/
 ├── PCOSENSE.ipynb
 ├── requirements.txt
 ├── .gitignore
+|
 ├── images/
 ├── docs/
 ├── dataset/
