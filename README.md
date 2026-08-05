@@ -24,6 +24,17 @@ PCOSENSE addresses this challenge by combining both clinical parameters and ultr
 - Keras
 - Matplotlib
 
+## Dataset
+This project uses two datasets:
+
+### Clinical Dataset
+- *Source:* Kaggle
+- *Link:* https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
+
+### Ultrasound Image Dataset
+- *Source:* Kaggle
+- *Link:* https://github.com/Sh-bharat/Polycystic_Ovary_Syndrome_PCOS_Image_Classification/
+  
 ## Machine Learning Models
 - Random Forest
 - Logistic Regression
