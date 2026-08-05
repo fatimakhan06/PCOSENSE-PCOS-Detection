@@ -64,7 +64,7 @@ PCOSENSE-PCOS-Detection/
 │
 ├── README.md
 ├── app.py
-├── PCOSENSE.ipynb
+├── Research Project.ipynb
 ├── requirements.txt
 ├── .gitignore
 ├── images/
