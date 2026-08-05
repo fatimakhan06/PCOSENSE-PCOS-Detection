@@ -48,18 +48,17 @@ PCOSENSE addresses this challenge by combining both clinical parameters and ultr
 ### Clinical Data Input
 ![Clinical Input](images/user_interface_1.png)
 
-### Ultrasound Uploa
+### Ultrasound Upload
 ![Upload](images/user_interface_2.png)
 
 ### Prediction Results
+![Prediction 1](images/pcos_prediction_1.png)
+![Prediction 2](images/pcos_prediction_2.png)
+![Prediction 3](images/pcos_prediction_3.png)
+![Prediction 4](images/non-pcos_prediction_1.png)
+![Prediction 5](images/non-pcos_prediction_2.png)
+![Prediction 6](images/non-pcos_prediction_3.png)
 
-![Prediction 1](images/prediction_result_1.png)
-
-![Prediction 2](images/prediction_result_2.png)
-
-![Prediction 3](images/prediction_result_3.png)
-
----
 ## Project Structure
 PCOSENSE-PCOS-Detection/
 │
@@ -68,10 +67,7 @@ PCOSENSE-PCOS-Detection/
 ├── PCOSENSE.ipynb
 ├── requirements.txt
 ├── .gitignore
-|
 ├── images/
-├── docs/
-├── dataset/
 └── models/
 
 ## Future Enhancements
@@ -82,6 +78,7 @@ PCOSENSE-PCOS-Detection/
 
 ## Author
 *Fatima Khan*
+
 M.S. Data Analytics
 
 This project was developed as part of the M.Sc. Data Analytics programme and demonstrates the application of machine learning, deep learning, and data analytics techniques to support healthcare decision-making.
